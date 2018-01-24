@@ -1,3 +1,1 @@
-大三的？？？？
-是大多数咚嗒嗒
-顶顶顶顶咚嗒嗒的撒
+This is a java program that change files' name.
